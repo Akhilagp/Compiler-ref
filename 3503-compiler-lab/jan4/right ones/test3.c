@@ -1,0 +1,7 @@
+C = a++ + b++
+D = ++a + ++b
+float limitedsquare (x) {
+ 	float x;
+		return (x<= -10.0 || x>=10.0) ? 100:x*x;
+	}     
+
